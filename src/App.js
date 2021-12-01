@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 // Styles
 import './App.css';
 
+
 // Views
 import Home from './Views/Home/Home';
 import Cart from './Views/Cart/Cart';
